@@ -1,0 +1,1 @@
+rootProject.name = "Actividad_horario_asignatura"
