@@ -1,5 +1,4 @@
 package timetabletatus
-gi
 
 import timetable.controller.TimeTableManager
 import timetable.input.ConsoleInput
